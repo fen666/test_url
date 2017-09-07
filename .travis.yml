@@ -1,0 +1,4 @@
+language: js
+
+jdk:
+  - oraclejdk8
